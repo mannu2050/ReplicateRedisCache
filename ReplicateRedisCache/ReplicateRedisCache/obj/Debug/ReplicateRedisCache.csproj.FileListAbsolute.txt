@@ -1,0 +1,8 @@
+c:\users\mansha\documents\visual studio 2015\Projects\ReplicateRedisCache\ReplicateRedisCache\bin\Debug\ReplicateRedisCache.exe.config
+c:\users\mansha\documents\visual studio 2015\Projects\ReplicateRedisCache\ReplicateRedisCache\obj\Debug\ReplicateRedisCache.csprojResolveAssemblyReference.cache
+c:\users\mansha\documents\visual studio 2015\Projects\ReplicateRedisCache\ReplicateRedisCache\bin\Debug\ReplicateRedisCache.exe
+c:\users\mansha\documents\visual studio 2015\Projects\ReplicateRedisCache\ReplicateRedisCache\bin\Debug\ReplicateRedisCache.pdb
+c:\users\mansha\documents\visual studio 2015\Projects\ReplicateRedisCache\ReplicateRedisCache\bin\Debug\StackExchange.Redis.dll
+c:\users\mansha\documents\visual studio 2015\Projects\ReplicateRedisCache\ReplicateRedisCache\bin\Debug\StackExchange.Redis.xml
+c:\users\mansha\documents\visual studio 2015\Projects\ReplicateRedisCache\ReplicateRedisCache\obj\Debug\ReplicateRedisCache.exe
+c:\users\mansha\documents\visual studio 2015\Projects\ReplicateRedisCache\ReplicateRedisCache\obj\Debug\ReplicateRedisCache.pdb
